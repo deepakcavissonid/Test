@@ -1,0 +1,162 @@
+--Request 
+POST https://www.google-analytics.com/j/collect?v=1&_v=j98&a=1122298644&t=pageview&_s=1&dl=https%3A%2F%2Fwww.cavisson.com%2Fcavisson-systems-performance-intelligence-platform%2F&ul=en-us&de=UTF-8&dt=Performance%20Intelligence%20Platform%20for%20Mission%20Critical%20Applications&sd=24-bit&sr=1313x489&vp=1298x361&je=0&_u=AACAAEABAAAAACAAI~&jid=&gjid=&cid=676091301.1672140511&tid=UA-77809548-1&_gid=1446675417.1672140511&_slc=1&z=18657124
+Host: www.google-analytics.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.cavisson.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+access-control-allow-origin: https://www.cavisson.com
+date: Tue, 27 Dec 2022 11:29:21 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+last-modified: Sun, 17 May 1998 03:00:00 GMT
+access-control-allow-credentials: true
+x-content-type-options: nosniff
+content-type: text/plain
+cross-origin-resource-policy: cross-origin
+server: Golfe2
+content-length: 2
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.gstatic.com/recaptcha/releases/5qcenVbrhOy8zihcc2aHOWD4/recaptcha__en.js
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+Origin: https://www.cavisson.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: gzip
+access-control-allow-origin: *
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/recaptcha
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy: same-origin-allow-popups; report-to=\"recaptcha\"
+report-to: {\"group\":\"recaptcha\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/recaptcha\"}]}
+content-length: 164706
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+date: Mon, 26 Dec 2022 21:18:13 GMT
+expires: Tue, 26 Dec 2023 21:18:13 GMT
+cache-control: public, max-age=31536000
+last-modified: Thu, 15 Dec 2022 05:24:10 GMT
+content-type: text/javascript
+age: 51017
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://app.artibot.ai/loader.js
+Host: app.artibot.ai
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/javascript; charset=utf-8
+last-modified: Tue, 12 Oct 2021 19:43:28 GMT
+x-amz-version-id: null
+server: AmazonS3
+content-encoding: gzip
+date: Tue, 27 Dec 2022 11:21:39 GMT
+cache-control: public, max-age=14400
+etag: W/\"bc87ff61d54f4865c2982a891c9a20af\"
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 1e945def076aac9bdb8498b654a0accc.cloudfront.net (CloudFront)
+x-amz-cf-pop: LAX50-P1
+x-amz-cf-id: 5yCxbCd2GlkBMV-503G682zpOkDcGd6Ffu00Fw2UvxPzIG0vq9t_Hw==
+age: 412
+----
+--Request 
+GET https://snap.licdn.com/li.lms-analytics/insight.min.js
+Host: snap.licdn.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+last-modified: Thu, 15 Dec 2022 18:31:06 GMT
+accept-ranges: bytes
+content-type: application/x-javascript;charset=utf-8
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=86209
+date: Tue, 27 Dec 2022 11:28:30 GMT
+content-length: 4654
+x-cdn: AKAM
+----
+--Request 
+GET https://www.gstatic.com/call-tracking/call-tracking_7.js
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: gzip
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/ads-telephony
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy: same-origin; report-to=\"ads-telephony\"
+report-to: {\"group\":\"ads-telephony\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/ads-telephony\"}]}
+content-length: 21020
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+date: Fri, 23 Dec 2022 21:21:00 GMT
+expires: Sat, 23 Dec 2023 21:21:00 GMT
+cache-control: public, max-age=31536000
+age: 310101
+last-modified: Wed, 03 Feb 2021 22:45:00 GMT
+content-type: text/javascript
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

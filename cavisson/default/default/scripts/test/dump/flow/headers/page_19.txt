@@ -1,0 +1,25 @@
+--Request 
+POST https://api.artibot.ai/api/bots/948c4b2e-cf5d-4d58-9e77-2b636e5bbd98/chats/init/
+Host: api.artibot.ai
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+Accept: application/json
+Content-Type: application/json
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Origin: https://app.artibot.ai
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://app.artibot.ai/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Tue, 27 Dec 2022 11:29:23 GMT
+content-type: application/json; charset=utf-8
+server: Kestrel
+access-control-allow-origin: *
+----
+

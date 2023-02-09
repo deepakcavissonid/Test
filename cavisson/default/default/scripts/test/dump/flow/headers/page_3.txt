@@ -1,0 +1,34 @@
+--Request 
+POST https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j98&tid=UA-77809548-1&cid=676091301.1672140511&jid=328239125&gjid=1781953393&_gid=1446675417.1672140511&_u=IEBAAEAAAAAAACAAI~&z=1275260779
+Host: stats.g.doubleclick.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.cavisson.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+access-control-allow-origin: https://www.cavisson.com
+strict-transport-security: max-age=10886400; includeSubDomains; preload
+date: Tue, 27 Dec 2022 11:28:30 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+last-modified: Sun, 17 May 1998 03:00:00 GMT
+access-control-allow-credentials: true
+x-content-type-options: nosniff
+content-type: text/plain
+cross-origin-resource-policy: cross-origin
+server: Golfe2
+content-length: 2
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

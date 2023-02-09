@@ -1,0 +1,100 @@
+--Request 
+GET https://api-cdn.prod-aws.artibot.ai/api/bots/948c4b2e-cf5d-4d58-9e77-2b636e5bbd98/settings?settingsVersion=20&botVersionId=12034483-9bfe-47a8-bbfa-ada6398deb1f
+Host: api-cdn.prod-aws.artibot.ai
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Origin: https://www.cavisson.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Tue, 01 Nov 2022 17:18:39 GMT
+Server: Kestrel
+Cache-Control: public,max-age=2147483647
+Access-Control-Allow-Origin: *
+X-Cache: Hit from cloudfront
+Via: 1.1 18868ef67cecfcb10eccc1c8d3d6cc6a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-P3
+X-Amz-Cf-Id: jbnjEuyZCoqu8TozO6dirIsNLv7_Esvnbn6NeV9sbIMXhxESyK7vgQ==
+Age: 4817392
+----
+--Request 
+GET https://www.gstatic.com/recaptcha/api2/logo_48.png
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.gstatic.com/recaptcha/releases/5qcenVbrhOy8zihcc2aHOWD4/styles__ltr.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/recaptcha
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy: same-origin-allow-popups; report-to=\"recaptcha\"
+report-to: {\"group\":\"recaptcha\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/recaptcha\"}]}
+content-length: 2228
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+date: Thu, 22 Dec 2022 23:40:49 GMT
+expires: Thu, 29 Dec 2022 23:40:49 GMT
+cache-control: public, max-age=604800
+age: 388061
+last-modified: Tue, 03 Mar 2020 20:15:00 GMT
+content-type: image/png
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2
+Host: fonts.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+Origin: https://www.google.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+access-control-allow-origin: *
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy: same-origin; report-to=\"apps-themes\"
+report-to: {\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}
+timing-allow-origin: *
+content-length: 15344
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+date: Fri, 23 Dec 2022 06:32:11 GMT
+expires: Sat, 23 Dec 2023 06:32:11 GMT
+cache-control: public, max-age=31536000
+age: 363380
+last-modified: Mon, 16 Oct 2017 17:32:55 GMT
+content-type: font/woff2
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

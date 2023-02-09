@@ -1,0 +1,447 @@
+--Request 
+GET https://www.google.com/pagead/attribution/wcm?cc=ZZ&dn=18007016125&cl=9penCM3u55cBEOWDzZMD
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Origin: null
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+p3p: policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+content-type: application/json; charset=UTF-8
+access-control-allow-origin: null
+access-control-allow-credentials: true
+x-content-type-options: nosniff
+content-disposition: attachment; filename=\"f.txt\"
+content-encoding: gzip
+date: Tue, 27 Dec 2022 11:29:22 GMT
+server: cafe
+cache-control: private
+content-length: 87
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://app.artibot.ai/chat_window.4514.css
+Host: app.artibot.ai
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://app.artibot.ai/chat-window?i=948c4b2e-cf5d-4d58-9e77-2b636e5bbd98&cbv=12034483-9bfe-47a8-bbfa-ada6398deb1f&v=20&cp=https%3A%2F%2Fwww.cavisson.com%2Fcavisson-systems-performance-intelligence-platform%2F&th=light&em=true&sh=false&tb=true
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: text/css; charset=utf-8
+date: Sun, 21 Aug 2022 12:49:32 GMT
+cache-control: public, max-age=31536000
+last-modified: Tue, 12 Oct 2021 19:43:25 GMT
+x-amz-version-id: null
+etag: W/\"a802632c00ec3f2db3bf7622090aec7e\"
+server: AmazonS3
+content-encoding: gzip
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 1e945def076aac9bdb8498b654a0accc.cloudfront.net (CloudFront)
+x-amz-cf-pop: LAX50-P1
+x-amz-cf-id: XmeLkhyHMK5yCey2c7hj3Uokb0TwFJBX4HcaJx94zne6x_XclTJPew==
+age: 11054340
+----
+--Request 
+GET https://js.stripe.com/v3/
+Host: js.stripe.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://app.artibot.ai/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+last-modified: Fri, 23 Dec 2022 21:23:41 GMT
+etag: \"9e5ef9a80f3ac462068b600d5f5c5cd5\"
+cache-control: max-age=60
+content-type: text/javascript; charset=utf-8
+x-content-type-options: nosniff
+access-control-allow-origin: *
+server: Fastly
+content-encoding: br
+accept-ranges: bytes
+date: Tue, 27 Dec 2022 11:28:31 GMT
+via: 1.1 varnish
+age: 1
+x-request-id: 1a3e9d5a-b25e-437a-b673-1c6f74e2f5f2
+x-served-by: cache-bur-kbur8200065-BUR
+x-cache: HIT
+x-cache-hits: 1
+vary: Accept-Encoding
+timing-allow-origin: *
+content-length: 100533
+----
+--Request 
+GET https://app.artibot.ai/chat_window.4514.js
+Host: app.artibot.ai
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://app.artibot.ai/chat-window?i=948c4b2e-cf5d-4d58-9e77-2b636e5bbd98&cbv=12034483-9bfe-47a8-bbfa-ada6398deb1f&v=20&cp=https%3A%2F%2Fwww.cavisson.com%2Fcavisson-systems-performance-intelligence-platform%2F&th=light&em=true&sh=false&tb=true
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/javascript; charset=utf-8
+date: Sat, 04 Jun 2022 10:43:50 GMT
+cache-control: public, max-age=31536000
+last-modified: Tue, 12 Oct 2021 19:43:23 GMT
+x-amz-version-id: null
+etag: W/\"acb5538a812851913e40c77db031e30e\"
+server: AmazonS3
+content-encoding: gzip
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 1e945def076aac9bdb8498b654a0accc.cloudfront.net (CloudFront)
+x-amz-cf-pop: LAX50-P1
+x-amz-cf-id: zGlOjOHEXrH3R05IhdLoJ980sXuzmi-vvFgNdXbmKrHc1xVhrFL7cA==
+age: 17801082
+----
+--Request 
+GET https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,600,700
+Host: fonts.googleapis.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://app.artibot.ai/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: text/css; charset=utf-8
+access-control-allow-origin: *
+timing-allow-origin: *
+link: <https://fonts.gstatic.com>; rel=preconnect; crossorigin
+expires: Tue, 27 Dec 2022 11:28:31 GMT
+date: Tue, 27 Dec 2022 11:28:31 GMT
+cache-control: private, max-age=86400, stale-while-revalidate=604800
+last-modified: Tue, 27 Dec 2022 11:27:37 GMT
+cross-origin-opener-policy: same-origin-allow-popups
+cross-origin-resource-policy: cross-origin
+content-encoding: gzip
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://fonts.googleapis.com/css?family=Source+Serif+Pro:300,400,400i,600,700
+Host: fonts.googleapis.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://app.artibot.ai/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: text/css; charset=utf-8
+access-control-allow-origin: *
+timing-allow-origin: *
+link: <https://fonts.gstatic.com>; rel=preconnect; crossorigin
+expires: Tue, 27 Dec 2022 11:28:31 GMT
+date: Tue, 27 Dec 2022 11:28:31 GMT
+cache-control: private, max-age=86400, stale-while-revalidate=604800
+last-modified: Tue, 27 Dec 2022 11:28:31 GMT
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy: same-origin-allow-popups
+content-encoding: gzip
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://fonts.googleapis.com/css?family=Space+Mono:300,400,400i,600,700
+Host: fonts.googleapis.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://app.artibot.ai/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: text/css; charset=utf-8
+access-control-allow-origin: *
+timing-allow-origin: *
+link: <https://fonts.gstatic.com>; rel=preconnect; crossorigin
+expires: Tue, 27 Dec 2022 11:28:31 GMT
+date: Tue, 27 Dec 2022 11:28:31 GMT
+cache-control: private, max-age=86400, stale-while-revalidate=604800
+last-modified: Tue, 27 Dec 2022 11:28:31 GMT
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy: same-origin-allow-popups
+content-encoding: gzip
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/recaptcha/api2/bframe?hl=en&v=5qcenVbrhOy8zihcc2aHOWD4&k=6Ldt8qEUAAAAAH-QhEOUuqZ3-IqCap0nlTw6xrli
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: \"Linux\"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+cross-origin-resource-policy: cross-origin
+cross-origin-embedder-policy: require-corp
+report-to: {\"group\":\"recaptcha\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/recaptcha\"}]}
+content-type: text/html; charset=utf-8
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 27 Dec 2022 11:29:22 GMT
+content-security-policy: script-src 'report-sample' 'nonce-uOP0_Sqw5fyyJGPfuB3W4w' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/recaptcha/1
+content-encoding: gzip
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-length: 1116
+server: GSE
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://js.stripe.com/v3/m-outer-da551b803dc55c2dc0b4b9bdfeabba62.html#url=https%3A%2F%2Fapp.artibot.ai%2Fchat-window%3Fi%3D948c4b2e-cf5d-4d58-9e77-2b636e5bbd98%26cbv%3D12034483-9bfe-47a8-bbfa-ada6398deb1f%26v%3D20%26cp%3Dhttps%253A%252F%252Fwww.cavisson.com%252Fcavisson-systems-performance-intelligence-platform%252F%26th%3Dlight%26em%3Dtrue%26sh%3Dfalse%26tb%3Dtrue&title=ArtiBot.ai%20%E2%80%94%20AI%20Powered%20Bot%20for%20Lead%20Capture&referrer=&muid=NA&sid=NA&version=6&preview=false
+Host: js.stripe.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: \"Linux\"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://app.artibot.ai/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+last-modified: Fri, 23 Dec 2022 20:55:09 GMT
+etag: \"da551b803dc55c2dc0b4b9bdfeabba62\"
+cache-control: max-age=31536000
+content-type: text/html; charset=utf-8
+content-security-policy: base-uri 'none'; connect-src 'self' https://r.stripe.com; default-src 'self'; font-src 'none'; form-action 'none'; frame-src https://m.stripe.network; img-src https://q.stripe.com; media-src 'none'; object-src 'none'; script-src 'self'; style-src 'self'; report-uri https://q.stripe.com/csp-report
+content-security-policy-report-only: base-uri 'none'; connect-src 'self' https://r.stripe.com; default-src 'self'; font-src 'none'; form-action 'none'; frame-src https://m.stripe.network; img-src https://q.stripe.com; media-src 'none'; object-src 'none'; script-src 'self'; style-src 'self'; report-uri https://q.stripe.com/csp-report
+x-content-type-options: nosniff
+access-control-allow-origin: *
+server: Fastly
+content-encoding: br
+accept-ranges: bytes
+date: Tue, 27 Dec 2022 11:28:31 GMT
+via: 1.1 varnish
+age: 311502
+x-request-id: 32262522-f62b-4d03-98e3-17f1c9fe09d4
+x-served-by: cache-bur-kbur8200065-BUR
+x-cache: HIT
+x-cache-hits: 22930
+vary: Accept-Encoding
+timing-allow-origin: *
+content-length: 121
+----
+--Request 
+GET https://js.stripe.com/v3/fingerprinted/js/m-outer-43a3f10a091543c9b0b5776f4b2fbc8d.js
+Host: js.stripe.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://js.stripe.com/v3/m-outer-da551b803dc55c2dc0b4b9bdfeabba62.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+last-modified: Fri, 23 Dec 2022 20:55:08 GMT
+etag: \"ba3b5093ebce20757a5cf45d9f166d0e\"
+cache-control: max-age=31536000
+content-type: text/javascript; charset=utf-8
+x-content-type-options: nosniff
+access-control-allow-origin: *
+server: Fastly
+content-encoding: br
+accept-ranges: bytes
+date: Tue, 27 Dec 2022 11:28:31 GMT
+via: 1.1 varnish
+age: 311502
+x-request-id: 8a1530e0-f768-4caa-abfb-ed9b05b8fd43
+x-served-by: cache-bur-kbur8200065-BUR
+x-cache: HIT
+x-cache-hits: 18932
+vary: Accept-Encoding
+timing-allow-origin: *
+content-length: 550
+----
+--Request 
+OPTIONS https://api-cdn.prod-aws.artibot.ai/api/bots/948c4b2e-cf5d-4d58-9e77-2b636e5bbd98/settings?settingsVersion=20&botVersionId=12034483-9bfe-47a8-bbfa-ada6398deb1f
+Host: api-cdn.prod-aws.artibot.ai
+Accept: */*
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: content-type
+Origin: https://app.artibot.ai
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://app.artibot.ai/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Length: 0
+Connection: keep-alive
+Date: Tue, 27 Dec 2022 11:29:22 GMT
+Server: Kestrel
+Access-Control-Allow-Headers: content-type
+Access-Control-Allow-Methods: GET,OPTIONS,POST
+Access-Control-Allow-Origin: *
+X-Cache: Miss from cloudfront
+Via: 1.1 18868ef67cecfcb10eccc1c8d3d6cc6a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-P3
+X-Amz-Cf-Id: lrctAl7nH518HRYgdWpAEB5guoihZnHm7eGH1K3seOzeOQ1zZ2GQQw==
+----
+--Request 
+GET https://m.stripe.network/inner.html#url=https%3A%2F%2Fapp.artibot.ai%2Fchat-window%3Fi%3D948c4b2e-cf5d-4d58-9e77-2b636e5bbd98%26cbv%3D12034483-9bfe-47a8-bbfa-ada6398deb1f%26v%3D20%26cp%3Dhttps%253A%252F%252Fwww.cavisson.com%252Fcavisson-systems-performance-intelligence-platform%252F%26th%3Dlight%26em%3Dtrue%26sh%3Dfalse%26tb%3Dtrue&title=ArtiBot.ai%20%E2%80%94%20AI%20Powered%20Bot%20for%20Lead%20Capture&referrer=&muid=NA&sid=NA&version=6&preview=false
+Host: m.stripe.network
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: \"Linux\"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://js.stripe.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+cache-control: max-age=300, public
+content-type: text/html; charset=utf-8
+content-security-policy: base-uri 'none'; connect-src https://m.stripe.network https://m.stripe.com; default-src 'none'; font-src https://m.stripe.network https://fonts.gstatic.com; form-action 'none'; frame-src https://m.stripe.network https://js.stripe.com; img-src https://m.stripe.network https://m.stripe.com https://b.stripecdn.com; script-src https://m.stripe.network 'sha256-e/Jqu4k9Gk1ZCWO6StAsfhF3i7qgIwfuitaD1g9DyvE='; style-src https://m.stripe.network; report-uri https://q.stripe.com/csp-report
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+x-content-type-options: nosniff
+server: Fastly
+content-encoding: gzip
+accept-ranges: bytes
+date: Tue, 27 Dec 2022 11:29:22 GMT
+via: 1.1 varnish
+age: 11
+x-request-id: 29d05854-7182-46d7-9590-6e732dd1e583
+x-served-by: cache-bur-kbur8200065-BUR
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1672140562.409454,VS0,VE1
+vary: Accept-Encoding, Origin
+content-length: 527
+----
+--Request 
+GET https://m.stripe.network/out-4.5.42.js
+Host: m.stripe.network
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://m.stripe.network/inner.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+cache-control: max-age=300, public
+content-type: text/javascript; charset=utf-8
+x-content-type-options: nosniff
+server: Fastly
+content-encoding: gzip
+accept-ranges: bytes
+date: Tue, 27 Dec 2022 11:28:31 GMT
+via: 1.1 varnish
+age: 234
+x-request-id: 4d548916-0e26-4d17-ba29-420ffc9aa175
+x-served-by: cache-bur-kbur8200065-BUR
+x-cache: HIT
+x-cache-hits: 15
+x-timer: S1672140512.887010,VS0,VE0
+vary: Accept-Encoding, Origin
+content-length: 16031
+----
+

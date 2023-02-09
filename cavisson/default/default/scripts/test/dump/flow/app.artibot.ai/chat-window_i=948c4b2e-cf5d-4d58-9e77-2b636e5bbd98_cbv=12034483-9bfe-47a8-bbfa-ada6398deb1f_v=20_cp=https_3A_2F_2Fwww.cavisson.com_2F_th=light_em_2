@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en-us">
+<!--
+@@@@@@@@@@@@@@@@@@@@&,,,. ..*.@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@,,,,,,,,,,.,*@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@,,,,,. .,,,..*@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@*&,,,,,.  ,,,,,,&&&@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@/********************@@@@@@@@@@@@@@
+@@@@/#(((((((((((((((((((((((((((((((((((((#/@@@@
+@@@(((((((((((((((((((((((((((((((((((((((((((@@@
+@@@(((((((((((((((((((((((((((((((((((((((((((@@@
+@@@(((((((((((((((((((((((((((((((((((((((((((@@@
+@@@(((((((((((((((((((((((((((((((((((((((((((@@@
+@@@(((((((((((((((((((((((((((((((((((((((((((@@@
+%**(((((((((((((((((((((((((((((((((((((((((((**%
+***(((((((#&&&&&&&&&&&&&&&&&&&&&&&&&&(((((((*****
+***(((((%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%(((((***
+***((((#@@@@@@@*  ,@@@@@@@@@@@,  *@@@@@@@#((((***
+///((((#@@@@@@@*  ,@@@@@@@@@@@,  *@@@@@@@#((((///
+///(((((&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&(((((///
+///(((((((#&&&&&&&&&&&&&&&&&&&&&&&&&&(((((((/////
+*//(((((((((((((((((((((((((((((((((((((((((((//*
+@@@(((((((((((((((((#%#(((#%#(((((((((((((((((@@@
+@@@((((((((((((((((((#&%%%((((((((((((((((((((@@@
+@@@(((((((((((((((((((((((((((((((((((((((((((@@@
+@@@(((((((((((((((((((((((((((((((((((((((((((@@@
+@@@(((((((((((((((((((((((((((((((((((((((((((@@@
+-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>ArtiBot.ai — AI Powered Bot for Lead Capture</title>
+    <meta name="description" content="ArtiBot.ai is an AI-powered lead capture tool for your website. It works 24 hours a day, 7 days a week! It's super easy to setup and use.">
+
+    <!-- Favicon variants -->
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <!-- Apple Icons -->
+    <link rel="apple-touch-icon" href="/apple-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="apple-touch-icon-precomposed" href="/apple-icon-precomposed.png">
+    <!-- Android Installable App Manifest -->
+    <link rel="manifest" href="/manifest.json">
+    <!-- IE Tile Config -->
+    <meta name="msapplication-config" content="/browserconfig.xml">
+
+    
+    <link href="https://app.artibot.ai/chat_window.4514.css" rel="stylesheet">
+    
+</head>
+<body>
+    <div id="root"></div>
+    <script id="stripe-js" src="https://js.stripe.com/v3/" async></script>
+    <script src="https://app.artibot.ai/chat_window.4514.js"></script>
+</body>
+</html>

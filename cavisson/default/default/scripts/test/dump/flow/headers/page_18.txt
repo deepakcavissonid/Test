@@ -1,0 +1,55 @@
+--Request 
+GET https://api-cdn.prod-aws.artibot.ai/api/bots/948c4b2e-cf5d-4d58-9e77-2b636e5bbd98/settings?settingsVersion=20&botVersionId=12034483-9bfe-47a8-bbfa-ada6398deb1f
+Host: api-cdn.prod-aws.artibot.ai
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+Accept: application/json
+Content-Type: application/json
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Origin: https://app.artibot.ai
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://app.artibot.ai/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Mon, 07 Nov 2022 07:43:19 GMT
+Server: Kestrel
+Cache-Control: public,max-age=2147483647
+Access-Control-Allow-Origin: *
+X-Cache: Hit from cloudfront
+Via: 1.1 18868ef67cecfcb10eccc1c8d3d6cc6a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-P3
+X-Amz-Cf-Id: m9eBqceTschV9rg2YHeti0-F9g9Fnm0zpIadVp_SGT5ffHJNQkmRfw==
+Age: 4333513
+----
+--Request 
+OPTIONS https://api.artibot.ai/api/bots/948c4b2e-cf5d-4d58-9e77-2b636e5bbd98/chats/init/
+Host: api.artibot.ai
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+Origin: https://app.artibot.ai
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://app.artibot.ai/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Tue, 27 Dec 2022 11:29:23 GMT
+content-length: 0
+server: Kestrel
+access-control-allow-headers: content-type
+access-control-allow-methods: GET,OPTIONS,POST
+access-control-allow-origin: *
+----
+

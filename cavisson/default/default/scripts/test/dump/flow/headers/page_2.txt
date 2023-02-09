@@ -1,0 +1,90 @@
+--Request 
+POST https://www.google-analytics.com/j/collect?v=1&_v=j98&a=1091690110&t=pageview&_s=1&dl=https%3A%2F%2Fwww.cavisson.com%2F&ul=en-us&de=UTF-8&dt=Performance%20Testing%2C%20Monitoring%20%26%20Diagnostics%20Software%20%7C%20Cavisson%20-&sd=24-bit&sr=8192x4096&vp=775x473&je=0&_u=IEBAAEABAAAAACAAI~&jid=328239125&gjid=1781953393&cid=676091301.1672140511&tid=UA-77809548-1&_gid=1446675417.1672140511&_r=1&_slc=1&z=670810331
+Host: www.google-analytics.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.cavisson.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+access-control-allow-origin: https://www.cavisson.com
+date: Tue, 27 Dec 2022 11:28:30 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+last-modified: Sun, 17 May 1998 03:00:00 GMT
+access-control-allow-credentials: true
+x-content-type-options: nosniff
+content-type: text/plain
+cross-origin-resource-policy: cross-origin
+server: Golfe2
+content-length: 4
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+
+--Response 
+HTTP/1.1 200
+content-type: text/javascript; charset=utf-8
+x-content-type-options: nosniff
+expires: Tue, 27 Dec 2022 11:28:30 GMT
+date: Tue, 27 Dec 2022 11:28:30 GMT
+cache-control: private, max-age=0
+strict-transport-security: max-age=31536000
+x-frame-options: SAMEORIGIN
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+vary: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-platform=*, ch-ua-platform-version=*
+report-to: {\"group\":\"youtube_main\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/youtube_main\"}]}
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy-report-only: same-origin; report-to=\"youtube_main\"
+p3p: CP=\"This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info.\"
+content-encoding: br
+server: ESF
+x-xss-protection: 0
+set-cookie: YSC=mU994qIv8d8; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none
+set-cookie: VISITOR_INFO1_LIVE=QYj4fVcQ0vg; Domain=.youtube.com; Expires=Sun, 25-Jun-2023 11:28:30 GMT; Path=/; Secure; HttpOnly; SameSite=none
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Ldt8qEUAAAAAH-QhEOUuqZ3-IqCap0nlTw6xrli&co=aHR0cHM6Ly93d3cuY2F2aXNzb24uY29tOjQ0Mw..&hl=en&v=5qcenVbrhOy8zihcc2aHOWD4&size=normal&cb=9d74cjl1ax
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: \"Linux\"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+cross-origin-resource-policy: cross-origin
+cross-origin-embedder-policy: require-corp
+report-to: {\"group\":\"recaptcha\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/recaptcha\"}]}
+content-type: text/html; charset=utf-8
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 27 Dec 2022 11:28:30 GMT
+content-security-policy: script-src 'report-sample' 'nonce-032jlj4aL1g8PFX3-SVNGw' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/recaptcha/1
+content-encoding: gzip
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-length: 23143
+server: GSE
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

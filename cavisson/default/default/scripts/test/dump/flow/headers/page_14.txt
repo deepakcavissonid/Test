@@ -1,0 +1,145 @@
+--Request 
+GET https://www.google.com/pagead/attribution/wcm?cc=ZZ&dn=16503197412&cl=irwhCLex05cBEOWDzZMD
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Origin: null
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+p3p: policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+content-type: application/json; charset=UTF-8
+access-control-allow-origin: null
+access-control-allow-credentials: true
+x-content-type-options: nosniff
+content-disposition: attachment; filename=\"f.txt\"
+content-encoding: gzip
+date: Tue, 27 Dec 2022 11:29:21 GMT
+server: cafe
+cache-control: private
+content-length: 87
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://app.artibot.ai/chat-window?i=948c4b2e-cf5d-4d58-9e77-2b636e5bbd98&cbv=12034483-9bfe-47a8-bbfa-ada6398deb1f&v=20&cp=https%3A%2F%2Fwww.cavisson.com%2Fcavisson-systems-performance-intelligence-platform%2F&th=light&em=true
+Host: app.artibot.ai
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: \"Linux\"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+
+--Request 
+GET https://www.googleadservices.com/pagead/conversion/846414309/wcm?cc=ZZ&dn=18007016125&cl=9penCM3u55cBEOWDzZMD&ref=https%3A%2F%2Fwww.cavisson.com%2F&ct_eid=2
+Host: www.googleadservices.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Origin: https://www.cavisson.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 302
+p3p: policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+location: https://www.google.com/pagead/attribution/wcm?cc=ZZ&dn=18007016125&cl=9penCM3u55cBEOWDzZMD
+access-control-allow-origin: https://www.cavisson.com
+access-control-allow-credentials: true
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+date: Tue, 27 Dec 2022 11:29:22 GMT
+server: cafe
+content-length: 0
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://app.artibot.ai/chat-window?i=948c4b2e-cf5d-4d58-9e77-2b636e5bbd98&cbv=12034483-9bfe-47a8-bbfa-ada6398deb1f&v=20&cp=https%3A%2F%2Fwww.cavisson.com%2Fcavisson-systems-performance-intelligence-platform%2F&th=light&em=true&sh=false&tb=true
+Host: app.artibot.ai
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: \"Linux\"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: text/html; charset=utf-8
+last-modified: Tue, 12 Oct 2021 19:43:29 GMT
+x-amz-version-id: null
+server: AmazonS3
+content-encoding: gzip
+date: Tue, 27 Dec 2022 11:28:31 GMT
+cache-control: public, max-age=900
+etag: W/\"14d7c7c69f131bf34750c3a7e93fb020\"
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 1e945def076aac9bdb8498b654a0accc.cloudfront.net (CloudFront)
+x-amz-cf-pop: LAX50-P1
+x-amz-cf-id: RxEuuXHljTK205JmhdvuqEWJRwdAf-ip3Md77gwJskB_NVtuymSYvA==
+age: 495
+----
+--Request 
+GET https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=5qcenVbrhOy8zihcc2aHOWD4
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Dest: worker
+Referer: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Ldt8qEUAAAAAH-QhEOUuqZ3-IqCap0nlTw6xrli&co=aHR0cHM6Ly93d3cuY2F2aXNzb24uY29tOjQ0Mw..&hl=en&v=5qcenVbrhOy8zihcc2aHOWD4&size=normal&cb=78va016bcjim
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+expires: Tue, 27 Dec 2022 11:28:31 GMT
+date: Tue, 27 Dec 2022 11:28:31 GMT
+cache-control: private, max-age=300
+cross-origin-embedder-policy: require-corp
+report-to: {\"group\":\"recaptcha\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/recaptcha\"}]}
+content-type: text/javascript; charset=UTF-8
+content-encoding: gzip
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'self'
+x-xss-protection: 1; mode=block
+content-length: 112
+server: GSE
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+

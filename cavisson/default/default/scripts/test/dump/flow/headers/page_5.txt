@@ -1,0 +1,237 @@
+--Request 
+GET https://cdn.linkedin.oribi.io/partner/775971/domain/cavisson.com/token
+Host: cdn.linkedin.oribi.io
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+Accept: *
+Content-Type: application/json
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Origin: https://www.cavisson.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/json
+date: Tue, 27 Dec 2022 10:39:13 GMT
+access-control-allow-origin: *
+cache-control: public, max-age=3600
+content-encoding: gzip
+vary: accept-encoding
+x-cache: Hit from cloudfront
+via: 1.1 3364d01d27e5eefe2ce5d7ce499e55b2.cloudfront.net (CloudFront)
+x-amz-cf-pop: LAX53-P1
+x-amz-cf-id: aUtlGUK1oM6581hUM2EYeVFh7Wxg_kjd-vazHad77emtzRpNaNwASQ==
+age: 2957
+----
+--Request 
+GET https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=5qcenVbrhOy8zihcc2aHOWD4
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Dest: worker
+Referer: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Ldt8qEUAAAAAH-QhEOUuqZ3-IqCap0nlTw6xrli&co=aHR0cHM6Ly93d3cuY2F2aXNzb24uY29tOjQ0Mw..&hl=en&v=5qcenVbrhOy8zihcc2aHOWD4&size=normal&cb=9d74cjl1ax
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+expires: Tue, 27 Dec 2022 11:28:31 GMT
+date: Tue, 27 Dec 2022 11:28:31 GMT
+cache-control: private, max-age=300
+cross-origin-embedder-policy: require-corp
+report-to: {\"group\":\"recaptcha\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/recaptcha\"}]}
+content-type: text/javascript; charset=UTF-8
+content-encoding: gzip
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'self'
+x-xss-protection: 1; mode=block
+content-length: 112
+server: GSE
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D775971%26time%3D1672140510805%26url%3Dhttps%253A%252F%252Fwww.cavisson.com%252F%26cookiesTest%3Dtrue%26liSync%3Dtrue
+Host: www.linkedin.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: li_sugr=5220eecf-d028-4bdd-bebb-eeee88fdbadb; bcookie=\"v=2&f150db3a-2f14-4c5c-8eb3-9846d3e5ff5d\"; lidc=\"b=TGST01:s=T:r=T:a=T:p=T:g=2973:u=1:x=1:i=1672140510:t=1672226910:v=2:sig=AQEmNS5ccWAm5nnfN_JhPV3z91JaoTrd\"; UserMatchHistory=AQIureCM5GVSOAAAAYVTV1cEt5nq7rTZKPCh3MkQUl3hAPy6NVEmoN3xR3OBLB-VdX1apAdXHXrXaw; AnalyticsSyncHistory=AQLDK6Bd5hLf2AAAAYVTV1cEPoSp5MbE32SZRpCY6o-z76DKDiUnMTVxHE4VAuhOtA_FmHkJoG9SHGXqkhfjZg
+----
+--Response 
+HTTP/1.1 302
+cache-control: no-cache, no-store
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+location: https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=775971&time=1672140510805&url=https%3A%2F%2Fwww.cavisson.com%2F&cookiesTest=true&liSync=true
+set-cookie: lang=v=2&lang=en-us; SameSite=None; Path=/; Domain=linkedin.com; Secure
+set-cookie: bcookie=\"v=2&f150db3a-2f14-4c5c-8eb3-9846d3e5ff5d\"; domain=.linkedin.com; Path=/; Secure; Expires=Wed, 27-Dec-2023 11:28:31 GMT; SameSite=None
+set-cookie: bscookie=\"v=1&20221227112831a12c4cd0-1aac-42ad-88b1-49ac9eed3fb3AQGWFiz5Af3ZS4fgDlRi597ijj2gGYdf\"; domain=.www.linkedin.com; Path=/; Secure; Expires=Wed, 27-Dec-2023 11:28:31 GMT; HttpOnly; SameSite=None
+linkedin-action: 1
+content-security-policy: default-src *; connect-src 'self' *.licdn.com *.linkedin.com wss://*.linkedin.com dpm.demdex.net/id lnkd.demdex.net blob: accounts.google.com/gsi/ linkedin.sc.omtrdc.net/b/ss/ *.qualtrics.com *.adyen.com *.microsoft.com; img-src data: blob: *; font-src data: *; style-src 'unsafe-inline' 'self' static-src.linkedin.com *.licdn.com; script-src 'report-sample' 'unsafe-inline' 'unsafe-eval' 'self' spdy.linkedin.com static-src.linkedin.com *.ads.linkedin.com *.licdn.com static.chartbeat.com bcvipva02.rightnowtech.com www.bizographics.com sjs.bizographics.com js.bizographics.com d.la4-c1-was.salesforceliveagent.com platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com; object-src 'none'; media-src blob: *; worker-src blob: 'self'; frame-src blob: lnkd-communities: voyager: *; frame-ancestors 'self' *.linkedin.com teams.microsoft.com client.learningapp.microsoft.com
+x-frame-options: sameorigin
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+expect-ct: max-age=86400, report-uri=\"https://www.linkedin.com/platform-telemetry/ct\"
+x-li-fabric: prod-ltx1
+x-li-pop: afd-prod-ltx1-x
+x-li-proto: http/2
+x-li-uuid: AAXwzY0tFVlegii03kbyow==
+x-cache: CONFIG_NOCACHE
+x-msedge-ref: Ref A: 922BFBB5ED0B431D83E27F1B930A48ED Ref B: LAX311000110021 Ref C: 2022-12-27T11:28:31Z
+date: Tue, 27 Dec 2022 11:28:30 GMT
+content-length: 0
+----
+--Request 
+GET https://www.google.com/recaptcha/api2/bframe?hl=en&v=5qcenVbrhOy8zihcc2aHOWD4&k=6Ldt8qEUAAAAAH-QhEOUuqZ3-IqCap0nlTw6xrli
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: \"Linux\"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+cross-origin-resource-policy: cross-origin
+cross-origin-embedder-policy: require-corp
+report-to: {\"group\":\"recaptcha\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/recaptcha\"}]}
+content-type: text/html; charset=utf-8
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 27 Dec 2022 11:28:31 GMT
+content-security-policy: script-src 'report-sample' 'nonce-_3b2TcCfn_tEcIisr1derw' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/recaptcha/1
+content-encoding: gzip
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-length: 1114
+server: GSE
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=775971&time=1672140510805&url=https%3A%2F%2Fwww.cavisson.com%2F&cookiesTest=true&liSync=true
+Host: px.ads.linkedin.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: li_sugr=5220eecf-d028-4bdd-bebb-eeee88fdbadb; lang=v=2&lang=en-us; bcookie=\"v=2&f150db3a-2f14-4c5c-8eb3-9846d3e5ff5d\"; lidc=\"b=TGST01:s=T:r=T:a=T:p=T:g=2973:u=1:x=1:i=1672140510:t=1672226910:v=2:sig=AQEmNS5ccWAm5nnfN_JhPV3z91JaoTrd\"; UserMatchHistory=AQIureCM5GVSOAAAAYVTV1cEt5nq7rTZKPCh3MkQUl3hAPy6NVEmoN3xR3OBLB-VdX1apAdXHXrXaw; AnalyticsSyncHistory=AQLDK6Bd5hLf2AAAAYVTV1cEPoSp5MbE32SZRpCY6o-z76DKDiUnMTVxHE4VAuhOtA_FmHkJoG9SHGXqkhfjZg; lang=v=2&lang=en-us
+----
+--Response 
+HTTP/1.1 200
+content-type: application/javascript
+set-cookie: li_sugr=5220eecf-d028-4bdd-bebb-eeee88fdbadb; Max-Age=7776000; Expires=Mon, 27 Mar 2023 11:28:31 GMT; SameSite=None; Path=/; Domain=.linkedin.com; Secure
+set-cookie: bcookie=\"v=2&f150db3a-2f14-4c5c-8eb3-9846d3e5ff5d\"; domain=.linkedin.com; Path=/; Secure; Expires=Wed, 27-Dec-2023 11:28:31 GMT; SameSite=None
+linkedin-action: 1
+x-li-fabric: prod-ltx1
+x-li-pop: afd-prod-ltx1-x
+x-li-proto: http/2
+x-li-uuid: AAXwzY0uILEtGiCmRsmusw==
+x-cache: CONFIG_NOCACHE
+x-msedge-ref: Ref A: B5E81BCC47AE47BD8BB2FEF5EE338B89 Ref B: LAX311000110021 Ref C: 2022-12-27T11:28:31Z
+date: Tue, 27 Dec 2022 11:28:30 GMT
+content-length: 0
+----
+--Request 
+GET https://prod.artibotcdn.com/manifest/_ArtiBotLauncherCB_Manifest?_=_
+Host: prod.artibotcdn.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Tue, 27 Dec 2022 11:28:31 GMT
+content-type: application/javascript; charset=utf-8
+last-modified: Tue, 12 Oct 2021 19:43:29 GMT
+x-amz-version-id: null
+cache-control: public, max-age=900
+etag: W/\"30f5a5230e5fa350c423fcf8a1ef11f0\"
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 182ea9f21966934f3add343ba3d9678a.cloudfront.net (CloudFront)
+x-amz-cf-pop: LAX50-P1
+x-amz-cf-id: dRcSc5yUYYESnABTBjtwGEoDZlmyZKfXdqrSGqJFiqT65ftndEBj5Q==
+age: 670
+cf-cache-status: DYNAMIC
+report-to: {\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=waOz%2BH8wRtjXudqBrbhSq%2Fo5HA8F4V9sQaUEqbZnn3cqZgj%2FATbNplkweNBB3Ogf2V1%2B8chW5I8J1g3oJLtSD3qPV8To2G5TLPcQFSgANHbeGV6PM9uJaCKMcrf4CEoKRbl6RnXI\"}],\"group\":\"cf-nel\",\"max_age\":604800}
+nel: {\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}
+server: cloudflare
+cf-ray: 7801b692dcacdbb6-LAX
+content-encoding: br
+alt-svc: h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400
+----
+--Request 
+GET https://prod.artibotcdn.com/launcher.4514.js
+Host: prod.artibotcdn.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+date: Tue, 27 Dec 2022 11:28:31 GMT
+content-type: application/javascript; charset=utf-8
+cache-control: public, max-age=31536000
+last-modified: Tue, 12 Oct 2021 19:43:23 GMT
+x-amz-version-id: null
+etag: W/\"7deaa8108362bbdd03720d8b30e9dc39\"
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 93619d0483de5a982acbcb876b8d6c08.cloudfront.net (CloudFront)
+x-amz-cf-pop: LAX50-C4
+x-amz-cf-id: S8Onvjad-frdXeooClaOmDTw3GfQuzBH5YsXFyeipvmt1DS_x6wcSw==
+age: 2751600
+cf-cache-status: HIT
+report-to: {\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=1B5tNr4v3QGxEuTU1VuYuq5PQEIAKG85VoHt1tVy%2BBDOFfMkw7OHXtVDxofFnrmuBi2R9TdZ2ZFpXsGDUlwLjIW%2FajqsaGpugsmqcO9DsbiI8iyLVQ0l%2Fe1OqY7WnZ3antHLPisr\"}],\"group\":\"cf-nel\",\"max_age\":604800}
+nel: {\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}
+server: cloudflare
+cf-ray: 7801b69318a77ecb-LAX
+content-encoding: br
+alt-svc: h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400
+----
+

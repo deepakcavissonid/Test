@@ -1,0 +1,2474 @@
+--Request 
+GET http://cavisson.com/
+Host: cavisson.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 27 Dec 2022 11:28:28 GMT
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+Content-Security-Policy: upgrade-insecure-requests;
+Location: https://www.cavisson.com/
+Content-Length: 233
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+----
+--Request 
+GET https://www.cavisson.com/
+Host: www.cavisson.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: \"Linux\"
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+x-frame-options: SAMEORIGIN
+x-frame-options: SAMEORIGIN
+link: <https://www.cavisson.com/wp-json/>; rel=\"https://api.w.org/\"
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+set-cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; expires=Tue, 27-Dec-2022 11:58:29 GMT; Max-Age=1800; path=/; HttpOnly; Secure
+set-cookie: PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52; path=/; secure; HttpOnly; HttpOnly; Secure
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 21206
+content-type: text/html; charset=UTF-8
+date: Tue, 27 Dec 2022 11:28:28 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_905ba59da3522da3dcb6136406ad0b76.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:09 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-type: text/css
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_single_b48f29a223d1760d6f3e1d0dfb850c96.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:08 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 14741
+content-type: text/css
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_single_411536fd225f7c2dc6daf53b293f3d11.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:08 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 1562
+content-type: text/css
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_single_8791b329842b434018f86964fbd1ff09.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:08 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 7947
+content-type: text/css
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.google.com/recaptcha/api.js?onload=wpformsRecaptchaLoad&render=explicit
+Host: www.google.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+expires: Tue, 27 Dec 2022 11:28:29 GMT
+date: Tue, 27 Dec 2022 11:28:29 GMT
+cache-control: private, max-age=300
+content-type: text/javascript; charset=UTF-8
+cross-origin-resource-policy: cross-origin
+content-encoding: gzip
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'self'
+x-xss-protection: 1; mode=block
+content-length: 579
+server: GSE
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/logo/logo_original.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 5530
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/banner/USTandCavisson2021.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 01 Jul 2021 09:02:00 GMT
+accept-ranges: bytes
+content-length: 106625
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/banner/insight-success-banner.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Wed, 17 Mar 2021 04:07:39 GMT
+accept-ranges: bytes
+content-length: 56962
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/banner/banner2aopti.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 90549
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/banner/banner_new_opti.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 56986
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/banner/banner3_opti.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 52112
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/banner/business_continuity_opti.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 36606
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/devops1.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 19756
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/apes_slider.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 14970
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/sre_slider.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 12482
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/cloud-monitoring1b.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 16323
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/product-icon/netstorm.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 2029
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/product-icon/netcloud.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 1813
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/product-icon/netocean.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 6815
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/icons/nethavoc.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 2557
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/product-icon/diagnostic.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 3509
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/product-icon/netvision.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 6111
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/product-icon/netforest.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 2065
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/icons/sap.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 2061
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/icons/snmp.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Tue, 09 Mar 2021 05:08:45 GMT
+accept-ranges: bytes
+content-length: 2921
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/icons/kubernetes.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 2305
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/icons/mongo-db.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 2026
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/icons/my-sql.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 1483
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/icons/ibm-db2.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 2519
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/icons/couchbase_a.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 1188
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/icons/dockers.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 1531
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/icons/rdt.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 1399
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/icons/rbu.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 2159
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/icons/jms.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 1731
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/logo/Michaels.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 4349
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/logo/macys.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 11256
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/logo/pathkind.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 16364
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/logo/redbox.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 12919
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/logo/nha.png
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 10466
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/line-bg.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 3631
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/award0.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 13142
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/award1.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 18792
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/award2.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 23709
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/award3.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 23343
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/award4.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 20919
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/award5.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 14139
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/award6.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 20572
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/award7.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 22628
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/svg/ask.svg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+cache-control: max-age=31536000
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 1015
+content-type: image/svg+xml
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/svg/feedback.svg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+cache-control: max-age=31536000
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 697
+content-type: image/svg+xml
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/svg/demo.svg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+cache-control: max-age=31536000
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 863
+content-type: image/svg+xml
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/js/autoptimize_9836a29f7b2dff34b6183ab0686742fb.js
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:08 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-type: application/javascript
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://69.61.127.66:9026/nv/cavisson/nv_bootstrap.js
+Host: 69.61.127.66:9026
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+
+--Request 
+GET https://www.google-analytics.com/analytics.js
+Host: www.google-analytics.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=10886400; includeSubDomains; preload
+x-content-type-options: nosniff
+vary: Accept-Encoding
+content-encoding: gzip
+cross-origin-resource-policy: cross-origin
+server: Golfe2
+content-length: 20039
+date: Tue, 27 Dec 2022 10:40:24 GMT
+expires: Tue, 27 Dec 2022 12:40:24 GMT
+cache-control: public, max-age=7200
+age: 2886
+last-modified: Tue, 27 Sep 2022 22:01:05 GMT
+content-type: text/javascript
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_13a5250f3cb21fe97a4196a34dddde79.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:09 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 1200
+content-type: text/css
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_6d3d148c5a30bb7dc1bafe5dd300ce89.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:09 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 2606
+content-type: text/css
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_f1b664e7f1e8a8e6bea090d2e3f909a1.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:09 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 3375
+content-type: text/css
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/themes/onetone/images/home/products_bg.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 59849
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/uploads/2020/10/y-cavisson.jpg
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Oct 2020 10:13:32 GMT
+accept-ranges: bytes
+content-length: 194000
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:28:30 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/jpeg
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+Origin: https://www.cavisson.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_905ba59da3522da3dcb6136406ad0b76.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 14 Nov 2022 11:04:44 GMT
+accept-ranges: bytes
+content-length: 77160
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: font/woff2
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/plugins/mobile-menu/includes/css/font/mobmenu.woff2?31192480
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+Origin: https://www.cavisson.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_905ba59da3522da3dcb6136406ad0b76.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:43:14 GMT
+accept-ranges: bytes
+content-length: 9380
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: font/woff2
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/plugins/wp-social-widget/assets/fonts/socialicon.ttf?4xqn5s
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+Origin: https://www.cavisson.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_905ba59da3522da3dcb6136406ad0b76.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Sun, 10 Jul 2022 12:12:37 GMT
+accept-ranges: bytes
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 4790
+content-type: font/ttf
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/plugins/magee-shortcodes/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+Origin: https://www.cavisson.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_905ba59da3522da3dcb6136406ad0b76.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Tue, 08 Nov 2022 05:56:43 GMT
+accept-ranges: bytes
+content-length: 18028
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: font/woff2
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.gstatic.com/recaptcha/releases/5qcenVbrhOy8zihcc2aHOWD4/recaptcha__en.js
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+Origin: https://www.cavisson.com
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: gzip
+access-control-allow-origin: *
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/recaptcha
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy: same-origin-allow-popups; report-to=\"recaptcha\"
+report-to: {\"group\":\"recaptcha\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/recaptcha\"}]}
+content-length: 164706
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+date: Mon, 26 Dec 2022 21:18:13 GMT
+expires: Tue, 26 Dec 2023 21:18:13 GMT
+cache-control: public, max-age=31536000
+last-modified: Thu, 15 Dec 2022 05:24:10 GMT
+content-type: text/javascript
+age: 51017
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://app.artibot.ai/loader.js
+Host: app.artibot.ai
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/javascript; charset=utf-8
+last-modified: Tue, 12 Oct 2021 19:43:28 GMT
+x-amz-version-id: null
+server: AmazonS3
+content-encoding: gzip
+date: Tue, 27 Dec 2022 11:21:39 GMT
+cache-control: public, max-age=14400
+etag: W/\"bc87ff61d54f4865c2982a891c9a20af\"
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 1e945def076aac9bdb8498b654a0accc.cloudfront.net (CloudFront)
+x-amz-cf-pop: LAX50-P1
+x-amz-cf-id: 5yCxbCd2GlkBMV-503G682zpOkDcGd6Ffu00Fw2UvxPzIG0vq9t_Hw==
+age: 412
+----
+--Request 
+GET https://snap.licdn.com/li.lms-analytics/insight.min.js
+Host: snap.licdn.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+last-modified: Thu, 15 Dec 2022 18:31:06 GMT
+accept-ranges: bytes
+content-type: application/x-javascript;charset=utf-8
+vary: Accept-Encoding
+content-encoding: gzip
+cache-control: max-age=86209
+date: Tue, 27 Dec 2022 11:28:30 GMT
+content-length: 4654
+x-cdn: AKAM
+----
+--Request 
+GET https://www.youtube.com/iframe_api
+Host: www.youtube.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+
+

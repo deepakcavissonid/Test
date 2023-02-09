@@ -1,0 +1,41 @@
+--Request 
+GET https://www.cavisson.com/cavisson-systems-performance-intelligence-platform/?\cavisson.ico
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.cavisson.com/cavisson-systems-performance-intelligence-platform/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52; _ga=GA1.2.676091301.1672140511; _gid=GA1.2.1446675417.1672140511; _gat=1; ln_or=eyI3NzU5NzEiOiJkIn0%3D; _gcl_au=1.1.288746387.1672140562
+----
+--Response 
+HTTP/1.1 200
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+x-frame-options: SAMEORIGIN
+x-frame-options: SAMEORIGIN
+link: <https://www.cavisson.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.cavisson.com/wp-json/wp/v2/pages/806>; rel=\"alternate\"; type=\"application/json\", <https://www.cavisson.com/?p=806>; rel=shortlink
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+set-cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; expires=Tue, 27-Dec-2022 11:58:29 GMT; Max-Age=1747; path=/; HttpOnly; Secure
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 18614
+content-type: text/html; charset=UTF-8
+date: Tue, 27 Dec 2022 11:29:22 GMT
+server: Apache
+----
+

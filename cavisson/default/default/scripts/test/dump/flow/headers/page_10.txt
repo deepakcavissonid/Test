@@ -1,0 +1,520 @@
+--Request 
+GET https://www.cavisson.com/cavisson-systems-performance-intelligence-platform/
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: \"Linux\"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://www.cavisson.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52; _ga=GA1.2.676091301.1672140511; _gid=GA1.2.1446675417.1672140511; _gat=1; ln_or=eyI3NzU5NzEiOiJkIn0%3D
+----
+--Response 
+HTTP/1.1 200
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+x-frame-options: SAMEORIGIN
+x-frame-options: SAMEORIGIN
+link: <https://www.cavisson.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.cavisson.com/wp-json/wp/v2/pages/806>; rel=\"alternate\"; type=\"application/json\", <https://www.cavisson.com/?p=806>; rel=shortlink
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+set-cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; expires=Tue, 27-Dec-2022 11:58:29 GMT; Max-Age=1749; path=/; HttpOnly; Secure
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 18610
+content-type: text/html; charset=UTF-8
+date: Tue, 27 Dec 2022 11:29:20 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_2d1d83a3e924710012bc38d490f79a93.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/cavisson-systems-performance-intelligence-platform/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52; _ga=GA1.2.676091301.1672140511; _gid=GA1.2.1446675417.1672140511; _gat=1; ln_or=eyI3NzU5NzEiOiJkIn0%3D
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:48:00 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:29:21 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-type: text/css
+date: Tue, 27 Dec 2022 11:29:21 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_single_b48f29a223d1760d6f3e1d0dfb850c96.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/cavisson-systems-performance-intelligence-platform/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52; _ga=GA1.2.676091301.1672140511; _gid=GA1.2.1446675417.1672140511; _gat=1; ln_or=eyI3NzU5NzEiOiJkIn0%3D
+----
+--Response 
+HTTP/1.1 200
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:08 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 14741
+content-type: text/css
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_single_411536fd225f7c2dc6daf53b293f3d11.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/cavisson-systems-performance-intelligence-platform/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52; _ga=GA1.2.676091301.1672140511; _gid=GA1.2.1446675417.1672140511; _gat=1; ln_or=eyI3NzU5NzEiOiJkIn0%3D
+----
+--Response 
+HTTP/1.1 200
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:08 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 1562
+content-type: text/css
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_single_8791b329842b434018f86964fbd1ff09.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/cavisson-systems-performance-intelligence-platform/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52; _ga=GA1.2.676091301.1672140511; _gid=GA1.2.1446675417.1672140511; _gat=1; ln_or=eyI3NzU5NzEiOiJkIn0%3D
+----
+--Response 
+HTTP/1.1 200
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:08 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 7947
+content-type: text/css
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.googletagmanager.com/gtag/js?id=AW-846414309
+Host: www.googletagmanager.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+content-type: application/javascript; charset=UTF-8
+access-control-allow-origin: *
+access-control-allow-credentials: true
+access-control-allow-headers: Cache-Control
+content-encoding: br
+vary: Accept-Encoding
+date: Tue, 27 Dec 2022 11:29:21 GMT
+expires: Tue, 27 Dec 2022 11:29:21 GMT
+cache-control: private, max-age=900
+last-modified: Tue, 27 Dec 2022 09:00:00 GMT
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-resource-policy: cross-origin
+server: Google Tag Manager
+content-length: 53032
+x-xss-protection: 0
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://cavisson.com/wp-content/themes/onetone/images/pyramid.png
+Host: cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _ga=GA1.2.676091301.1672140511; _gid=GA1.2.1446675417.1672140511; _gat=1
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Mon, 18 Jan 2021 09:22:57 GMT
+accept-ranges: bytes
+content-length: 66760
+cache-control: max-age=2628000, public
+expires: Wed, 27 Dec 2023 11:29:21 GMT
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+vary: User-Agent
+content-type: image/png
+date: Tue, 27 Dec 2022 11:29:21 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/js/autoptimize_e359ca4dce870cd409bafb1bf868f16f.js
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.cavisson.com/cavisson-systems-performance-intelligence-platform/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52; _ga=GA1.2.676091301.1672140511; _gid=GA1.2.1446675417.1672140511; _gat=1; ln_or=eyI3NzU5NzEiOiJkIn0%3D
+----
+--Response 
+HTTP/1.1 200
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:48:00 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:29:21 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-type: application/javascript
+date: Tue, 27 Dec 2022 11:29:21 GMT
+server: Apache
+----
+--Request 
+GET https://69.61.127.66:9026/nv/cavisson/nv_bootstrap.js
+Host: 69.61.127.66:9026
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+
+--Request 
+GET https://www.google-analytics.com/analytics.js
+Host: www.google-analytics.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+x-content-type-options: nosniff
+vary: Accept-Encoding
+content-encoding: gzip
+cross-origin-resource-policy: cross-origin
+server: Golfe2
+content-length: 20039
+date: Tue, 27 Dec 2022 10:40:24 GMT
+expires: Tue, 27 Dec 2022 12:40:24 GMT
+cache-control: public, max-age=7200
+age: 2886
+last-modified: Tue, 27 Sep 2022 22:01:05 GMT
+content-type: text/javascript
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_13a5250f3cb21fe97a4196a34dddde79.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/cavisson-systems-performance-intelligence-platform/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52; _ga=GA1.2.676091301.1672140511; _gid=GA1.2.1446675417.1672140511; _gat=1; ln_or=eyI3NzU5NzEiOiJkIn0%3D
+----
+--Response 
+HTTP/1.1 200
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:09 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 1200
+content-type: text/css
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_6d3d148c5a30bb7dc1bafe5dd300ce89.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/cavisson-systems-performance-intelligence-platform/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52; _ga=GA1.2.676091301.1672140511; _gid=GA1.2.1446675417.1672140511; _gat=1; ln_or=eyI3NzU5NzEiOiJkIn0%3D
+----
+--Response 
+HTTP/1.1 200
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:09 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 2606
+content-type: text/css
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://www.cavisson.com/wp-content/cache/autoptimize/css/autoptimize_f1b664e7f1e8a8e6bea090d2e3f909a1.css
+Host: www.cavisson.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://www.cavisson.com/cavisson-systems-performance-intelligence-platform/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _wpjshd_session_=9f40322b5cf7caa2fbfc2f08bff96ca45362604%2F1672142309%2F1672144109; PHPSESSID=ee52cc96f61e5ddb07e6331ee84e8d52; _ga=GA1.2.676091301.1672140511; _gid=GA1.2.1446675417.1672140511; _gat=1; ln_or=eyI3NzU5NzEiOiJkIn0%3D
+----
+--Response 
+HTTP/1.1 200
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self'
+last-modified: Thu, 15 Dec 2022 11:44:09 GMT
+accept-ranges: bytes
+cache-control: max-age=2628000, public
+expires: Sun, 17 Dec 2023 11:28:30 GMT
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: same-origin
+feature-policy: geolocation 'self'; vibrate 'none'
+permissions-policy: geolocation 'self'; microphone 'none'
+content-length: 3375
+content-type: text/css
+date: Tue, 27 Dec 2022 11:28:30 GMT
+server: Apache
+----
+--Request 
+GET https://googleads.g.doubleclick.net/pagead/viewthroughconversion/846414309/?random=1672140561551&cv=11&fst=1672140561551&bg=ffffff&guid=ON&async=1&gtm=2oabu0&u_w=1313&u_h=489&hn=www.googleadservices.com&frm=0&url=https%3A%2F%2Fwww.cavisson.com%2Fcavisson-systems-performance-intelligence-platform%2F&ref=https%3A%2F%2Fwww.cavisson.com%2F&tiba=Performance%20Intelligence%20Platform%20for%20Mission%20Critical%20Applications&auid=288746387.1672140562&uaa=x86&uab=64&uafvl=%2520Not%2520A%253BBrand%3B99.0.0.0%7CChromium%3B104.0.5112.124&uap=Linux&uapv=5.4.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=4
+Host: googleads.g.doubleclick.net
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+p3p: policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+date: Tue, 27 Dec 2022 11:29:21 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+content-type: text/javascript; charset=UTF-8
+x-content-type-options: nosniff
+content-disposition: attachment; filename=\"f.txt\"
+content-encoding: br
+server: cafe
+content-length: 920
+x-xss-protection: 0
+set-cookie: test_cookie=CheckForPermission; expires=Tue, 27-Dec-2022 11:44:21 GMT; path=/; domain=.doubleclick.net; Secure; SameSite=none
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+--Request 
+GET https://www.gstatic.com/wcm/loader.js
+Host: www.gstatic.com
+sec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"104\"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 Safari/537.36
+sec-ch-ua-platform: \"Linux\"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+----
+--Response 
+HTTP/1.1 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: br
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy-report-only: same-origin; report-to=\"static-on-bigtable\"
+report-to: {\"group\":\"static-on-bigtable\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/static-on-bigtable\"}]}
+content-length: 1339
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+date: Tue, 27 Dec 2022 11:21:01 GMT
+expires: Tue, 27 Dec 2022 12:21:01 GMT
+cache-control: public, max-age=3600
+age: 500
+last-modified: Mon, 15 Mar 2021 16:45:00 GMT
+content-type: text/javascript
+alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"
+----
+
